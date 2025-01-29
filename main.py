@@ -1,6 +1,6 @@
 #This is a snake,gun,water game 
-
-import random
+#Before run install the random module 
+import random        #pip install random
 
 # g for gun
 # w for water
